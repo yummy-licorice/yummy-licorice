@@ -13,7 +13,7 @@
 - :octocat: I love creating and contributing to open source projects
 
 ### Projects
-- 🖌️ [Dye - The ultrafast image colorize](https://github.com/arashi-software/dye)
+- 🖌️ [Dye - The ultrafast image colorizer](https://github.com/arashi-software/dye)
 - 🪟 [Kuria - The wayland/gtk desktop environment written completely in nim](https://github.com/kuria-desktop)
 - 🗄️ [Shio - The ultrafast (and tiny) file server](https://github.com/arashi-software/shio)
 - 👀 [See more projects here](https://github.com/arashi-software/shio)
