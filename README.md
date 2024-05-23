@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm [Ripples](https://github.com/Infinitybeond1)!
+# 👋 Hello there, I'm [Licorice](https://github.com/Infinitybeond1)!
 
 ### Hobbies:
 - 🖥️ Programming (bet that one was hard to guess 😆)
