@@ -19,4 +19,4 @@
 - 👀 [See more projects here](https://github.com/arashi-software/shio)
 
 ### My stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Infinitybeond1&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yummy-licorice&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" />
